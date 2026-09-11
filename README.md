@@ -1,6 +1,6 @@
 # Strength Factory Gym — Management System
 
-A Java Swing desktop application for managing a gym's admins, staff, trainers, and members — built as a Object Oriented Programming university project.
+A Java Swing desktop application for managing a gym's admins, staff, trainers, and members — built as a 'Object Oriented Programming 1' university project.
 
 ## About
 
@@ -70,4 +70,4 @@ Login credentials are checked against `users.txt` (format: `username;password`).
 
 ## Course
 
-Object Oriented Programming (JAVA) — AIUB
+CSC 1205: Object Oriented Programming (JAVA) — AIUB
