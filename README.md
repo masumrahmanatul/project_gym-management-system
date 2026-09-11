@@ -1,6 +1,6 @@
 # Strength Factory Gym — Management System
 
-A Java Swing desktop application for managing a gym's admins, staff, trainers, and members — built as a Software Engineering university project.
+A Java Swing desktop application for managing a gym's admins, staff, trainers, and members — built as a Object Oriented Programming university project.
 
 ## About
 
